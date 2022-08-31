@@ -1,3 +1,2 @@
 #!/bin/bash
-cd /
-source ./2-bring_me_home
+cd / source ./2-bring_me_home
